@@ -984,8 +984,7 @@ It is always a good practice to design the model based on the population/sample 
 
 # Try it yourself
 
-Data for exercises are in can be found [here](aaaa)
-
+Data for exercises can be found [here](https://github.com/PayamEmami/tutorial-hac-mixedmodel/data)
 
 ## Vaccine study
 
@@ -1027,7 +1026,7 @@ load("vaccine.rda")
 
 ```
 
-## Vaccine study
+## Liver Toxicity
 
 This data set contains the expression measure of 3116 genes and 10 clinical measurements for 64 rats (repeating samples) that were exposed to non-toxic, moderately toxic or severely toxic doses of acetaminophen in a controlled experiment.
 
