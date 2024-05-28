@@ -984,7 +984,7 @@ It is always a good practice to design the model based on the population/sample 
 
 # Try it yourself
 
-Data for exercises can be found [here](https://github.com/PayamEmami/tutorial-hac-mixedmodel/data)
+Data for exercises can be found [here](https://github.com/PayamEmami/tutorial-hac-mixedmodel/tree/main/data)
 
 ## Vaccine study
 
